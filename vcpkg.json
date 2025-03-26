@@ -1,0 +1,8 @@
+{
+    "name": "raylibbase",
+    "description": "Basic raylib project",
+    "license": "MIT",
+    "dependencies": [
+        "raylib"
+    ]
+}
